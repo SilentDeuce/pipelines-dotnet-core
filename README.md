@@ -1,5 +1,7 @@
 # Sample ASP.NET Core application for Azure Pipelines docs
 
+[![Build Status](https://silentdeuce.visualstudio.com/400/_apis/build/status/400-CI)](https://silentdeuce.visualstudio.com/400/_build/latest?definitionId=1)
+
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
 
 | Example | Build status |
